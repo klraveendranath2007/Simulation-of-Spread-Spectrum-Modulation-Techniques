@@ -72,7 +72,7 @@ plt.ylabel("Amplitude")
 plt.grid()
 ```
 ### OUTPUT
-
+![Screenshot 2025-05-19 182835](https://github.com/user-attachments/assets/dae670f2-2628-48da-a8ef-d9a8ca909c65)
 
 ### RESULT
 
